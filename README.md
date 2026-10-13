@@ -4,7 +4,7 @@ Computer Engineering student at **Egypt University of Informatics** (Class of 20
 
 I build end-to-end ML pipelines in Python, from data preprocessing and class balancing to model training, tuning and evaluation. I'm especially interested in large language models, applied AI research and AI-assisted software systems.
 
-- 🔭 Currently: fine-tuning transformers for NLP with PyTorch and Hugging Face
+- 🔭 Focus: NLP and applied machine learning (PyTorch · Hugging Face Transformers)
 - 🛰️ Previously: Embedded / Space Systems Trainee at the Egyptian Space Agency (EGSA)
 - 🎓 Certified: Masterclass in Generative AI (INFOBALT / Vytautas Magnus University / EUI)
 - 💼 Open to: ML / AI engineering internships
