@@ -12,7 +12,9 @@ I build end-to-end ML pipelines in Python, from data preprocessing and class bal
 ## Tech stack
 
 **Languages:** Python · C · C++ · SQL · MATLAB
+
 **ML / AI:** PyTorch · Hugging Face Transformers · TensorFlow / Keras · scikit-learn · OpenCV · Pandas · NumPy
+
 **Tools:** Git · Google Colab · VS Code · Logisim · STM32CubeIDE · MongoDB
 
 ## Featured projects
